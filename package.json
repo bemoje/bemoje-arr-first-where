@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-first-where",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Return the first element of an array where the callback returns true.",
    "main": "dist/arr-first-where.umd.js",
    "module": "dist/arr-first-where.esm.js",
