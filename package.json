@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-first-where",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "description": "Return the first element of an array where the callback returns true.",
    "main": "dist/arr-first-where.umd.js",
    "module": "dist/arr-first-where.esm.js",
@@ -50,7 +50,7 @@
    },
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
